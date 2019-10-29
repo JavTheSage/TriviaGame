@@ -1,21 +1,48 @@
-body {
+/* body {
   text-align: center;
   width: 100%;
   height: 100%;
   scale: 100%;
   background-size: 100%;
   background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5915083-1be6-4974-99da-d0465b1585ec/d4skr08-b6ce0637-cf55-4815-8d27-a896cf5d7730.jpg/v1/fill/w_1095,h_730,q_70,strp/old_abandoned_barn_by_laughlady99_d4skr08-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA2NyIsInBhdGgiOiJcL2ZcL2E1OTE1MDgzLTFiZTYtNDk3NC05OWRhLWQwNDY1YjE1ODVlY1wvZDRza3IwOC1iNmNlMDYzNy1jZjU1LTQ4MTUtOGQyNy1hODk2Y2Y1ZDc3MzAuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.UBGatx-eV02FFRom_yYKh6BbsV_HEiSFjWJ5awFe8y4");
-}
+};
 
-.spooks {
 
-}
 
 
 .container {
   
-}
+};
 
 h1 {
     
+}; */
+#frame001 {
+  border-radius: 5px;
+  background-color: white;
+  border: 2px solid black;
+  height: 350px;
+  width: 400px;
+}
+
+.buttons001 {
+  background-color: purple;
+  color: white;
+  width: 70px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.buttons002 {
+  background-color:blueviolet;
+  color: white;
+  width: 70px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+#font001 {
+  text-align: center;
+  font-size: large;
+  color: black;
 }
